@@ -1,0 +1,113 @@
+l: Age
+t: textline
+o: require
+q: Entrez votre âge s'il vous plaît.
+- Age:
+
+l: Pair_1
+a: 1.mp3 3.mp3
+t: range
+q: Le premier enregistrement correspond à la réponse "A" et le second correspond à la réponse "B".
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} A:
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} B:
+
+l: Pair_2
+a: 2.mp3 1.mp3
+t: range
+q: Le premier enregistrement correspond à la réponse "A" et le second correspond à la réponse "B".
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} A:
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} B:
+
+l: Pair_3
+a: 2.mp3 3.mp3
+t: range
+q: Le premier enregistrement correspond à la réponse "A" et le second correspond à la réponse "B".
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} A:
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} B:
+
+l: Pair_4
+a: 4.mp3 5.mp3
+t: range
+q: Le premier enregistrement correspond à la réponse "A" et le second correspond à la réponse "B".
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} A:
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} B:
+
+l: Pair_5
+a: 8.mp3 6.mp3
+t: range
+q: Le premier enregistrement correspond à la réponse "A" et le second correspond à la réponse "B".
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} A:
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} B:
+
+
+l: Pair_6
+a: 6.mp3 7.mp3
+t: range
+q: Le premier enregistrement correspond à la réponse "A" et le second correspond à la réponse "B".
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} A:
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} B:
+
+l: Pair_7
+a: 6.mp3 8.mp3
+t: range
+q: Le premier enregistrement correspond à la réponse "A" et le second correspond à la réponse "B".
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} A:
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} B:
+
+
+l: Pair_8
+a: 10.mp3 9.mp3
+t: range
+q: Le premier enregistrement correspond à la réponse "A" et le second correspond à la réponse "B".
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} A:
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} B:
+
+l: Pair_9
+a: 11.mp3 13.mp3
+t: range
+q: Le premier enregistrement correspond à la réponse "A" et le second correspond à la réponse "B".
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} A:
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} B:
+
+l: Pair_10
+a: 12.mp3 11.mp3
+t: range
+q: Le premier enregistrement correspond à la réponse "A" et le second correspond à la réponse "B".
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} A:
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} B:
+
+l: Pair_12
+a: 13.mp3 14.mp3
+t: range
+q: Le premier enregistrement correspond à la réponse "A" et le second correspond à la réponse "B".
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} A:
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} B:
+
+l: Pair_13
+a: 12.mp3 14.mp3
+t: range
+q: Le premier enregistrement correspond à la réponse "A" et le second correspond à la réponse "B".
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} A:
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} B:
+
+l: Pair_14
+a: 17.mp3 15.mp3
+t: range
+q: Le premier enregistrement correspond à la réponse "A" et le second correspond à la réponse "B".
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} A:
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} B:
+
+l: Pair_15
+a: 15.mp3 16.mp3
+t: range
+q: Le premier enregistrement correspond à la réponse "A" et le second correspond à la réponse "B".
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} A:
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} B:
+
+l: Pair_16
+a: 16.mp3 17.mp3
+t: range
+q: Le premier enregistrement correspond à la réponse "A" et le second correspond à la réponse "B".
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} A:
+- {min=1,max=7,left=pas d'accord,right=d'accord,start=4} B:
+
