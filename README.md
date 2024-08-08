@@ -9,8 +9,3 @@ The project includes:
 - the audio recordings (in French) presented in the experiment
 - the survey configuration and the data collected from it
 - Dell's chapter from his book, and a short presentation format of the paper
-
-The paper was written and edited using [TeXworks software](https://www.tug.org/texworks/):
-a TeX front-end used to edit and preview LaTeX documents.
-
-I used the following Typeset: `XeLaTeX+MakeIndex+BibTeX`.
